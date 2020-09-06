@@ -1,19 +1,19 @@
 #!/bin/sh 
 
-##bcffile is the zipped VCF file which will be subset (MUST BE CHANGED)
+##bcffile is the zipped VCF file which will be subset (must be changed to intended vcf)
 bcffile="fullfiles.vcf.gz"
 
-##SNPlist is the list of SNPs to be viewed (MUST BE CHANGED)
+##SNPlist is the list of SNPs to be viewed (must be changed to intended SNPs)
 SNPlist="SNPlist.txt"
 
-##default file names for output (OPTIONAL)
+##default file names for output (OPTIONAL, can be left alone)
 subsetbcffile="subsetbcffile.vcf.gz"
 plinkout="queriedsubset"
 
-##default file name for frequency file
+##default file name for frequency file (OPTIONAL, can be left alone)
 freqfilename="allelefrequencies"
 
-##default file name for population locations
+##default file name for population locations (must be changed to intended locations)
 poplocations="populationlocations.txt"
 
 ##subset bcf file
