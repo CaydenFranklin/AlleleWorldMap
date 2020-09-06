@@ -1,0 +1,42 @@
+##population	##lat	##long	
+##When choices were made, used https://catalog.coriell.org/1/NHGRI/Collections/1000-Genomes-Collections for more granular information
+##CHS uses Changsha, the largest city in the Hunan province 
+##CEU uses Salt Lake City, Utah
+##GBR uses Cornwall, England, one of the 4 data collecion sites
+##IBS uses Madrid
+##GWD uses Brikama, capital of Gambia Western Divison
+##MSL uses Freetown, capital of Sierra Leone
+##ESN uses Abuja, capital of Nigeria
+##ASW uses Atlanta, centrally located and 3rd largest metro area (rather than D.C. or Miami)
+##ACB uses Bridgetown, capital of Barbados
+##PUR uses San Juan, Puerto Rico
+##BEB uses Dhaka, Bangladesh
+##STU uses London, UK
+##ITU uses Manchester, UK
+
+CHB	39.9042	116.4074
+JPT	35.6762	139.6503
+CHS	28.2282	112.9388
+CDX	22.0088	100.7971
+KHV	10.8231	106.6297
+CEU	40.7608	-111.8910
+TSI	43.7696	11.2558
+FIN	60.1699	24.9384
+GBR	50.2660	-5.0527
+IBS	40.4168	-3.7038
+YRI	7.3775	-3.9470
+LWK	0.5992	34.7796
+GWD	13.2748	-16.6409
+MSL	8.4657	-13.2317
+ESN	9.0765	7.3986
+ASW	33.7490	-84.3880
+ACB	13.1060	59.6132
+MXL	34.0522	-118.2437
+PUR	18.4655	-66.1057
+CLM	6.2476	-75.5658
+PEL	-12.0464	-77.0428
+GIH	29.7604	95.3698
+PJL	31.5204	74.3587
+BEB	23.8103	90.4125
+STU	51.5074	-0.1278
+ITU	53.4808	-2.2426
